@@ -1,0 +1,36 @@
+{
+  "keywordFileContentHash": "1511FC2A3B1FD9E70A8744FA90FC89BC",
+  "keywordClasses": [
+    {
+      "name": "mobileiosscroll.Scroll",
+      "keywordMethods": [
+        {
+          "name": "ScrollUp",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "ScrollDown",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "ScrollDownFast",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "SwipeLeft",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "SwipeRight",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

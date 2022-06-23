@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001-AddFavoriteTransferNeopay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af3d46e7-8790-4a2c-8753-81ecb81cdda9</testCaseGuid>
+</TestCaseEntity>

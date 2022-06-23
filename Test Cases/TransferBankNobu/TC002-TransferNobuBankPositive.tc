@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002-TransferNobuBankPositive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61368ec1-b886-456e-a895-e9a230f3ab3e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1583fa64-6979-4ed5-aaf4-9e4a20759962</id>
+      <masked>false</masked>
+      <name>NomorRekening</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a558be68-ec28-4b1d-bafd-2ebaace8342a</id>
+      <masked>false</masked>
+      <name>NominalTransfer</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>17094b94-1c40-493c-91a7-8678da00332e</id>
+      <masked>false</masked>
+      <name>pin</name>
+   </variable>
+</TestCaseEntity>

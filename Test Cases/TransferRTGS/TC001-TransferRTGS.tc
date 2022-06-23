@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001-TransferRTGS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6e208e8-efaf-4fe0-acb3-358a486373f4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c9ac1d1e-e472-40f4-bf5f-144267158051</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>854d109a-e771-40a5-9aa5-d84b6d040e73</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c9ac1d1e-e472-40f4-bf5f-144267158051</id>
+      <masked>false</masked>
+      <name>NomorRekening</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>854d109a-e771-40a5-9aa5-d84b6d040e73</id>
+      <masked>false</masked>
+      <name>NominalTransfer</name>
+   </variable>
+</TestCaseEntity>

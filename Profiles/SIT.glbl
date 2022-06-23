@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>SIT</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/Users/macocean/Library/Developer/Xcode/DerivedData/NobuNow-dyjtfzwpshezxhcyahtgoxsdvpjz/Build/Products/Debug-iphonesimulator/NOBU.app'</initValue>
+      <name>Nobu</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>5</initValue>
+      <name>TimeOut</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>10000</initValue>
+      <name>limitTrfMin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>2000000</initValue>
+      <name>limitTrfMax</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>100000000</initValue>
+      <name>limitTrfMaxPlus</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001-Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc72d398-e818-4fb4-b6be-ce9580d6d73d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4e7fd8a7-7b71-4694-99e9-8fcb553f31ab</id>
+      <masked>false</masked>
+      <name>OTP</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>82a9947f-9623-4a04-8f62-cdb071f1c78c</id>
+      <masked>false</masked>
+      <name>pin</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>09a76c12-e047-4be4-b93d-e07e49971617</id>
+      <masked>false</masked>
+      <name>NomorHandphone</name>
+   </variable>
+</TestCaseEntity>

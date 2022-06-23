@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004-InputOtp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d59b273-edeb-4603-a338-715f83384893</testCaseGuid>
+   <variable>
+      <defaultValue>'999999'</defaultValue>
+      <description></description>
+      <id>7eac59cf-4d24-43c8-8e83-76508b47fde8</id>
+      <masked>false</masked>
+      <name>OTP</name>
+   </variable>
+</TestCaseEntity>
